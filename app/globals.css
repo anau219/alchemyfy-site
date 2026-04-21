@@ -58,7 +58,7 @@
 
 @theme inline {
   --font-sans: var(--font-inter);
-  --font-serif: var(--font-lora);
+  --font-serif: var(--font-inter);
   --font-mono: 'Courier New', monospace;
   --color-coral: var(--coral);
   --color-warm-text: var(--warm-text);

@@ -12,7 +12,7 @@ export function Hero() {
           AI Consulting &amp; Education for Business Owners
         </div>
 
-        <h1 className="gradient-text font-serif text-4xl md:text-5xl lg:text-6xl xl:text-7xl leading-tight text-balance">
+        <h1 className="gradient-text font-sans font-bold text-4xl md:text-5xl lg:text-6xl xl:text-7xl tracking-tight leading-tight text-balance">
           {"You\u2019re not behind.\u00A0You\u2019re just missing the right system."}
         </h1>
 
